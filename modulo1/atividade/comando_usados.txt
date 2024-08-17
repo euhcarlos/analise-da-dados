@@ -1,0 +1,3 @@
+3 - chmod +x calculando.sh
+4 - chmod 744 calculando.sh
+5 - ./calculando.sh
