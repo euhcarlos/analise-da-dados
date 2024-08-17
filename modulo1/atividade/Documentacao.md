@@ -1,5 +1,3 @@
-# analise-da-dados
-
 # Como executar o calculando.sh?
 Você tem duas maneiras de executar o calculando.sh, você pode clicar com o botão do lado direito do mouse e executar como programa e abrindo o local do arquivo no terminal e digitando "./calculando.sh"
 
